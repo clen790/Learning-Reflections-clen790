@@ -1,0 +1,4 @@
+I found assignment 3 a lot more straightforward than the previous ones
+It was also very interesting learning how services like AWS S3 authentication sign ins using javascript 
+and the methods of authentication they use like SHA1
+However, I found it difficult finding information regarding how sign ins would differ on different machines for AWS.
